@@ -1,0 +1,13 @@
+{
+  "name" : "Increase Construction Queue Size",
+  "id" : "",
+  "version" : "1.0.0",
+  "supported_game_version" : "1.0.3",
+  "short_description" : "",
+  "tags" : [],
+  "relationships" : [],
+  "picture" : "thumbnail.png",
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
